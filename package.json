@@ -1,0 +1,23 @@
+{
+  "name": "begin-sanity",
+  "version": "1.0.0",
+  "description": "begin-sanity repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkpark104/begin-sanity.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jkpark104/begin-sanity/issues"
+  },
+  "homepage": "https://github.com/jkpark104/begin-sanity#readme",
+  "dependencies": {
+    "@sanity/cli": "^2.27.0"
+  }
+}
